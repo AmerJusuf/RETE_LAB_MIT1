@@ -30,8 +30,12 @@ Az állapotokon végig iterálva a getName().isEmpty() fügvénnyel kerestük me
 
 ### 3.3 - 3.4 
 
+![3 4](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/ba91b037-f697-4a0a-8f12-e5854ad418d4)
+
 ### 3.5 - 3.6
 While ciklusban beolvasunk egy stringet, ha a bemenet "exit", a ciklusból kilépünk, ha a string egyezik egy esemény nevével, meghívjuk a megfelelő eseményt:
+
+![3 6](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/77feef6a-edec-46d0-b62a-571c3744d7f4)
 
 
 
