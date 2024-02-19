@@ -17,7 +17,8 @@ A működés demonstrálása:
 Új statet adtunk a rendszerhez (NoKi), amibe a "Black" stateből megy tranzakció, de belőle nem vezet ki.
 
 ### 2.5 
-Az állapotokon végig iterálva a getname().isEmpty() füg
+Az állapotokon végig iterálva a getName().isEmpty() fügvénnyel kerestük meg azokat az állapotokat amiknek nincs nevük, ezeknek új nevet adtunk:
+
 
 
 
