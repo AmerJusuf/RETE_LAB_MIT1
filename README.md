@@ -22,6 +22,19 @@ Az állapotokon végig iterálva a getName().isEmpty() fügvénnyel kerestük me
 
 ![2 5](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/583f695a-e945-4d3c-91e4-d1aa9f4cdef5)
 
+## 3. Feladat
+### 3.1 - 3.2
+- InterFaceObserveSupport: Öröklést engedélyezi vagy letiltja a listener interfaceknel
+- RuntTimeService: Engedélyezi vagy letiltja a ciklusok léptetését
+- TimerService: Engedélyezi vagy letiltja a timert (after 1 s)
+
+### 3.3 - 3.4 
+
+### 3.5 - 3.6
+While ciklusban beolvasunk egy stringet, ha a bemenet "exit", a ciklusból kilépünk, ha a string egyezik egy esemény nevével, meghívjuk a megfelelő eseményt:
 
 
+
+
+  
 
