@@ -51,7 +51,8 @@ fája:
 A 2-es feladatban kiegészített kódrészletben, az elemeken végig iterálva az instanceof EventDefinition és a VariableDefinition típusokat kiirattuk:
 
 
-### 4.4
+### 4.4 - 4.5
+
 
 
   
