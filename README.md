@@ -16,7 +16,7 @@ A kódban a statet lecseréltük transitionra, és a transition source-ját és 
 
 ### 2.4 - 2.5 
 A csapda állapotok kiiratása:
-Új statet adtunk a rendszerhez (NoKi), amibe a "Black" stateből megy tranzakció, de belőle nem vezet ki.
+Új statet adtunk a rendszerhez, amibe a "Black" stateből megy tranzakció, de belőle nem vezet ki.
 
 Az állapotokon végig iterálva a getName().isEmpty() fügvénnyel kerestük meg azokat az állapotokat amiknek nincs nevük, ezeknek új nevet adtunk:
 
