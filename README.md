@@ -46,14 +46,21 @@ A gráf sokkal kiterjedtebb lett.
 A képen látható a whiteTime-=1 kifejezés absztrakt szintaxis
 fája:
 
+![4 2](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/1d8162e3-7648-458f-a3cd-09574dcafeb1)
+
 
 ### 4.3
 A 2-es feladatban kiegészített kódrészletben, az elemeken végig iterálva az instanceof EventDefinition és a VariableDefinition típusokat kiirattuk:
+
+![4 3](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/df55b01b-704f-4f19-a92f-f922086fe66a)
 
 
 ### 4.4 - 4.7
 A változók nevei és bemenő események nevei alapján a konzolra kiír egy szöveget, amely java
 kódként értelmezve az a 3.5-ös feladat általánosítását végzi el. 
+
+![4 5](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/81b4eb05-5956-414b-b92c-792861963040)
+
 
 
   
