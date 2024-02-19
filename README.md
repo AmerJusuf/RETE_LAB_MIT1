@@ -37,7 +37,21 @@ While ciklusban beolvasunk egy stringet, ha a bemenet "exit", a ciklusból kilé
 
 ![3 6](https://github.com/AmerJusuf/RETE_LAB_MIT1/assets/113386462/77feef6a-edec-46d0-b62a-571c3744d7f4)
 
+## 4. Fealadat
 
+### 4.1 
+A gráf sokkal kiterjedtebb lett.
+
+### 4.2
+A képen látható a whiteTime-=1 kifejezés absztrakt szintaxis
+fája:
+
+
+### 4.3
+A 2-es feladatban kiegészített kódrészletben, az elemeken végig iterálva az instanceof EventDefinition és a VariableDefinition típusokat kiirattuk:
+
+
+### 4.4
 
 
   
