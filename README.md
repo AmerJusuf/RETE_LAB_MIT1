@@ -51,8 +51,9 @@ fája:
 A 2-es feladatban kiegészített kódrészletben, az elemeken végig iterálva az instanceof EventDefinition és a VariableDefinition típusokat kiirattuk:
 
 
-### 4.4 - 4.5
-
+### 4.4 - 4.7
+A változók nevei és bemenő események nevei alapján a konzolra kiír egy szöveget, amely java
+kódként értelmezve az a 3.5-ös feladat általánosítását végzi el. 
 
 
   
